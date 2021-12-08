@@ -44,6 +44,10 @@ https://realpython.com/python-requests/#getting-started-with-requests
 https://www.w3schools.com/python/ref_requests_get.asp
 https://realpython.com/python-web-scraping-practical-introduction/
 
+https://www.w3schools.com/tags/tag_embed.asp
+https://www.w3schools.com/html/html_iframe.asp
+https://powerusers.microsoft.com/t5/Power-Apps-Portals/Display-external-webpage-content-iframe-refused-to-connect/td-p/630786
+
 https://api.cs50.io/dining/locations
 https://cs50.readthedocs.io/api/dining/#menus
 
