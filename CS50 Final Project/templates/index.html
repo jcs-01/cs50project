@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+
+{% block title %}
+    Harvard Hub
+{% endblock %}
+
+{% block main %}
+    <p>
+        <iframe src="https://www.thecrimson.com/" height="300" width="500" title="Harvard Main Website"></iframe>
+    </p>
+    <p>
+        <iframe src="https://www.accuweather.com/en/us/cambridge/02139/hourly-weather-forecast/329319" height="300" width="500" title="HUDS menu"></iframe>
+    </p>
+    <div>
+        <h3>
+            Today's Menu
+        </h3>
+        <h5>
+            Dining Hall: {{ dhallval }}
+        </h5>
+        <h5>
+            Meal: {{ mealval }}
+        </h5>
+    </div>
+    <div>
+        {{ cleantext }}
+    </div>
+    <p>
+        <a class="twitter-timeline" href="https://twitter.com/Harvard?ref_src=twsrc%5Etfw">Tweets by Harvard</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" height="300" width="50vw"></script>
+    </p>
+    
+{% endblock %}

@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+
+{% block title %}
+    Harvard Websites
+{% endblock %}
+
+{% block main %}
+<table>
+    <thead>
+        <tr>
+            <th>Site Name</th>
+            <th>Site URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for key, value in buy.items() %}
+            <tr>
+                <td>
+                    {{ key }}
+                </td>
+                <td>
+                    <a href="{{ value }}">{{ value }}</a>
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
+
+<!-- Sources:
+    https://www.tutorialspoint.com/How-to-Insert-Hyperlink-in-HTML-Page
+    https://thispointer.com/python-4-ways-to-print-items-of-a-dictionary-line-by-line/
+
+    
+

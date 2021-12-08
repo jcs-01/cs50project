@@ -1,0 +1,65 @@
+Sources
+# https://stackoverflow.com/questions/23045832/sqlite3-programmingerror-cannot-operate-on-a-closed-database-python-sqlite
+# https://www.py4u.net/discuss/17062
+# https://www.sqlitetutorial.net/sqlite-select/
+# https://stackoverflow.com/questions/40465681/keep-getting-the-error-typeerror-function-takes-at-most-2-arguments-3-given
+# Noah Epstein -- solving a problem with passing in a tuple, web scraping help, bugs
+# https://stackoverflow.com/questions/48218065/programmingerror-sqlite-objects-created-in-a-thread-can-only-be-used-in-that-sa
+# Michael Gul -- solving a problem with having the initialization of the database outside the function ^
+# https://stackoverflow.com/questions/44949338/the-requested-url-was-not-found-on-the-server-if-you-entered-the-url-manually-p
+# https://www.sqlitetutorial.net/sqlite-create-table/
+# https://www.sqlitetutorial.net/sqlite-insert/
+# https://www.sqlitetutorial.net/sqlite-python/creating-database/
+# https://appdividend.com/2020/10/14/how-to-create-sqlite-database-in-python/
+# https://www.tutorialspoint.com/sqlite/sqlite_create_database.htm
+# Bootstrap documentation
+# Python Docs
+# Flask documentation
+# https://stackoverflow.com/questions/46008128/flask-webserver-not-reloading-on-code-change - solved issue with website not reloading automatically
+# https://www.w3schools.com/python/python_regex.asp - searching
+# https://www.w3schools.com/python/python_lists_add.asp
+# Rob
+Davey Schoenberg
+https://stackoverflow.com/questions/26080872/secret-key-not-set-in-flask-session-using-the-flask-session-extension
+https://stackoverflow.com/questions/11041405/why-dict-getkey-instead-of-dictkey/11041421
+https://www.geeksforgeeks.org/python-dictionary-keys-method/
+https://stackoverflow.com/questions/34747624/exit-a-sqlite-3-database#:~:text=Ctrl%20%2B%20D%20will%20get%20you,the%20SQLite%203%20command%20prompt.
+https://sites.google.com/site/usfcomputerscience/sessions
+https://pythonbasics.org/flask-sessions/
+https://www.geeksforgeeks.org/python-get-key-from-value-in-dictionary/
+https://www.h2kinfosys.com/topic/whats-the-difference-between-execute-and-executemany/
+https://stackoverflow.com/questions/2887878/importing-a-csv-file-into-a-sqlite3-database-table-using-python
+https://stackoverflow.com/questions/9662346/python-code-to-remove-html-tags-from-a-string
+https://www.w3schools.com/html/html_form_elements.asp
+https://www.sqlitetutorial.net/sqlite-delete/
+https://www.programiz.com/python-programming/datetime/current-datetime
+https://www.tutorialspoint.com/python/dictionary_get.htm
+https://www.sqlitetutorial.net/sqlite-unique-constraint/
+https://webautomation.io/blog/how-to-clean-web-scraping-data-using-python-beautifulsoup/
+https://www.w3schools.com/python/python_regex.asp#split
+https://www.w3schools.com/html/html_form_input_types.asp
+https://www.tutorialspoint.com/requests/requests_web_scraping_using_requests.htm
+https://docs.python.org/3/howto/unicode.html#encodings
+https://realpython.com/python-requests/#getting-started-with-requests
+https://www.w3schools.com/python/ref_requests_get.asp
+https://realpython.com/python-web-scraping-practical-introduction/
+
+https://api.cs50.io/dining/locations
+https://cs50.readthedocs.io/api/dining/#menus
+
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-URL-find-use-example
+
+# https://stackoverflow.com/questions/24398302/bs4-featurenotfound-couldnt-find-a-tree-builder-with-the-features-you-requeste
+# https://python-forum.io/thread-29064.html
+https://stackoverflow.com/questions/17912307/u-ufeff-in-python-string
+
+https://stackoverflow.com/questions/51202753/how-to-make-embedded-twitter-feed-responsive-in-size-for-smaller-screens
+https://publish.twitter.com/?query=https%3A%2F%2Ftwitter.com%2FHarvard%3Fref_src%3Dtwsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor&widget=Timeline
+https://help.twitter.com/en/using-twitter/embed-twitter-feed
+
+
+# Installing:
+# https://stackoverflow.com/questions/50205646/permission-denied-with-trying-to-use-pip-on-mac
+# Pip documentation
+# Flask documentation
+# Sqlite documentation

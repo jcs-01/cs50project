@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+
+{% block title %}
+    Results
+{% endblock %}
+
+{% block main %}
+<table>
+    <thead>
+        <tr>
+            <th>Site Name</th>
+            <th>Site URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for key, value in list.items() %}
+            <tr>
+                <td>
+                    {{ key }}
+                </td>
+                <td>
+                    <a href="{{ value }}">{{ value }}</a>
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

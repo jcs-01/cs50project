@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Meal Preferences
+{% endblock %}
+
+{% block main %}
+    <div>
+        <form action="/dhall" method="post">
+            <div class="mb-3">
+                <select name="dhall">
+                    <option disabled selected>Dining Hall</option>
+                    {% for dhall in dhalls.keys() %}
+                        <option value= "{{ dhall }}">{{ dhall }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="mb-3">
+                <select name="meal">
+                    <option disabled selected>Meal</option>
+                    {% for meal in meals.keys() %}
+                        <option value= "{{ meal }}">{{ meal }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <!--
+            <div class="mb-3">
+                <input type ="checkbox" id="default" name="default" value="default">
+                <label for="default">Set new default preferences?</label>
+                
+            </div>
+        -->
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </form>
+    </div>
+{% endblock %}
