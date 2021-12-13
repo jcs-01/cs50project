@@ -43,6 +43,7 @@ https://docs.python.org/3/howto/unicode.html#encodings
 https://realpython.com/python-requests/#getting-started-with-requests
 https://www.w3schools.com/python/ref_requests_get.asp
 https://realpython.com/python-web-scraping-practical-introduction/
+https://www.w3schools.com/python/python_dictionaries.asp
 
 https://www.w3schools.com/tags/tag_embed.asp
 https://www.w3schools.com/html/html_iframe.asp
